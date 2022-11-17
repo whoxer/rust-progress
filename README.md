@@ -14,12 +14,12 @@ O guia de instalação e o livro completo do Rust em português pode ser lido po
 
 ### Lista do que eu fiz até o momento:
 
-- [jogo de adivinhação](./guessing_game/guessing.md)
-- [variáveis](./Variáveis, Funções e Comentários/variables)
-- [tipos de dados](./Variáveis, Funções e Comentários/compound_types)
-- [acesso a elementos de uma array](./Variáveis, Funções e Comentários/array_element_acess)
-- [funções](./Variáveis, Funções e Comentários/function)
-- [comentários](./Variáveis, Funções e Comentários/comments)
-- [branches](./Controle de Fluxo/branches)
-- [loop](./Controle de Fluxo/looping)
-- [if com let](./Controle de Fluxo/if_com_let)
+- Jogo de Adivinhação
+- Variáveis
+- Tipos de Dados
+- Acesso a Elemento de uma Array
+- Funções
+- Comentários
+- Branches
+- Loop
+- If com let
