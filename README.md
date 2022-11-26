@@ -12,14 +12,3 @@ Rust é uma linguagem de programação de muitos paradigmas, isso significa que 
 
 O guia de instalação e o livro completo do Rust em português pode ser lido por aqui: [guia de instalação em português Brasil](https://rust-br.github.io/rust-book-pt-br/ch01-01-installation.html#:~:text=No%20Windows%2C%20v%C3%A1%20para%20https,Visual%20Studio%202013%20ou%20posterior.)
 
-### Lista do que eu fiz até o momento:
-
-- Jogo de Adivinhação
-- Variáveis
-- Tipos de Dados
-- Acesso a Elemento de uma Array
-- Funções
-- Comentários
-- Branches
-- Loop
-- If com let
