@@ -1,0 +1,1 @@
+/home/natanael/learningRust/Structs/definindo_e_instanciando_structs/target/debug/definindo_e_instanciando_structs: /home/natanael/learningRust/Structs/definindo_e_instanciando_structs/src/main.rs
